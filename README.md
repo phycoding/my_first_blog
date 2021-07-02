@@ -1,9 +1,10 @@
 # my_first_blog
-This repository shows information about how to install streamlit in google colab and run it without any local computer and pc
-To know every thing you need to know that what is streamlit is?
-Ans - So basically streamlit is a platform where you can share your data apps without any experience in frontend and backend web devlopment. It is a great platform which save your time without increasing your stress level, So that you could solve bigger problem.
-Google colab is also a best platform for poor data scientist who want to be perfect without spending a panny and rupee.
-so this code blocks also allow you to use this two great tool with out spending a rupee.
+This repository shows information about how to install Streamlit in google Colab and run it without any local computer and pc
+To know everything, you need to know that what is Streamlit is?
+Ans - So basically, Streamlit is a platform where you can share your data apps without any experience in frontend and backend web development. It is a great platform that saves your time without increasing your stress level So that, you could solve bigger problems.
+Google colab is also the best platform for a poor data scientist who wants to be perfect without spending a penny and rupee.
+These code blocks also allow you to use these two great tools without spending a rupee.
 
 Thank You,
+
 Yours Phycoding
